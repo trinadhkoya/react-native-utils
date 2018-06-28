@@ -1,14 +1,10 @@
 {
   "name": "react-native-utils",
   "version": "1.0.0",
-  "description": "This package will cover all the utilities like screen sizes,and corresponding responsive fonts which makes your design responsive on every screen ",
+  "description": "An utility which makes react native app smoother ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trinadhkoya/react-native-utils.git"
   },
   "dependencies": {
     "prop-types": "^15.5.7"
@@ -16,15 +12,16 @@
   "peerDependencies": {
     "react-native": ">=0.44.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinadhkoya/react-native-utils.git"
+  },
   "keywords": [
+    "react-native-bootstrap",
     "react-native-responsive",
-    "responsive-mobile",
-    "responisive-fonts",
-    "screen-utilities",
-    "mobie-responsive",
-    "bootstrap-responsive"
+    "react-native-mobile-responsive"
   ],
-  "author": "Trinadh Koya",
+  "author": "trinadhkoya",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/trinadhkoya/react-native-utils/issues"
